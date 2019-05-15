@@ -1,4 +1,5 @@
 # illusix
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+Test Fot Illusix
+>>>>>>> 0dabadc05c58099e65c662ab1f88062d82fc3802
